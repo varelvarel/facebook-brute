@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# ---| Recoded By : Manz 
-# Manz Gw
+# ---| Recoded By : Varel
+# Varel
 use strict;
 use Net::SSLeay::Handle;
 
@@ -8,7 +8,7 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 
 system('clear');
 print "\n          +--------------------------------------------------------------+\n";
-print "          |                         Recode by Manz                       |\n";
+print "          |                         Recode by Ghost                      |\n";
 print "          +--------------------------------------------------------------+\n\n";
 exit; }
 
